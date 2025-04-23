@@ -1,4 +1,3 @@
-# Diet-Recommendation-
 # Diet Recommendation System
 
 A machine learning-powered Streamlit application that provides personalized diet recommendations based on individual health metrics and preferences.
